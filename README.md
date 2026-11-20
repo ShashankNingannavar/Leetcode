@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ShashankNingannavar/Leetcode/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/ShashankNingannavar/Leetcode/tree/master/0507-perfect-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShashankNingannavar/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/ShashankNingannavar/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Array
 |  |
 | ------- |
